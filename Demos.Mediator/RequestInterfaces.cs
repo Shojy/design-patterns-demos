@@ -1,8 +1,9 @@
 namespace Demos.Mediator;
 
+// ReSharper disable UnusedTypeParameter
+
 public interface IRequest;
 
-// ReSharper disable once UnusedTypeParameter
 public interface IRequest<TResponse>;
 
 public interface IRequestHandler<in TRequest> where TRequest : IRequest
