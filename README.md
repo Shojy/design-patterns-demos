@@ -4,11 +4,16 @@ This repository is intended as a collection of demos explaining various design p
 
 ## Contents
 
-| Pattern          | Project Link                                 | Description |
-| ---------------- |----------------------------------------------| ----------- |
-| Decorator        | [Demos.Decorator](Demos.Decorator/README.md) | ..          |
-| Flyweight        | (sample to be added)                         | ..          |
-| Factory          | (sample to be added)                         | ..          |
-| Abstract Factory | (sample to be added)                         | ..          |
-| Observer         | (sample to be added)                         | ..          |
-| Singleton        | (sample to be added)                         | ..          |
+| Pattern          | Project Link                                 | Type       |
+| ---------------- | -------------------------------------------- | ---------- |
+| Decorator        | [Demos.Decorator](Demos.Decorator/README.md) | Structural |
+| Flyweight        | (sample to be added)                         | Structural |
+| Factory          | (sample to be added)                         | Creational |
+| Abstract Factory | (sample to be added)                         | Creational |
+| Observer         | (sample to be added)                         | Behaviour  |
+| Singleton        | (sample to be added)                         | Creational |
+| Mediator         | [Demos.Mediator](Demos.Mediator/README.md)   | Behaviour  |
+
+## Disclaimer
+
+All code samples here should not be considered product-ready, and are provided for educational purposes only.
