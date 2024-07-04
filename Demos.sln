@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{53271AE8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.Mediator", "Demos.Mediator\Demos.Mediator.csproj", "{4C0B1DD1-E89B-4D33-89EA-BCE02E119E03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.Builder", "Demos.Builder\Demos.Builder.csproj", "{4E04B1A1-6CD4-4E09-A932-F3DC94348323}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,5 +25,9 @@ Global
 		{4C0B1DD1-E89B-4D33-89EA-BCE02E119E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C0B1DD1-E89B-4D33-89EA-BCE02E119E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C0B1DD1-E89B-4D33-89EA-BCE02E119E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E04B1A1-6CD4-4E09-A932-F3DC94348323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E04B1A1-6CD4-4E09-A932-F3DC94348323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E04B1A1-6CD4-4E09-A932-F3DC94348323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E04B1A1-6CD4-4E09-A932-F3DC94348323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
