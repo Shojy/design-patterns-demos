@@ -13,6 +13,7 @@ This repository is intended as a collection of demos explaining various design p
 | Observer         | (sample to be added)                         | Behaviour  |
 | Singleton        | (sample to be added)                         | Creational |
 | Mediator         | [Demos.Mediator](Demos.Mediator/README.md)   | Behaviour  |
+| Builder          | (sample to be added)                         | Creational |
 
 ## Disclaimer
 
